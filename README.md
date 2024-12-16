@@ -11,6 +11,8 @@ https://github.com/EChavezDevs
 Damián Gutiérrez
 https://github.com/DamianGutierrezLemus
 
+Alfredo Hernández
+https://github.com/Exoteklas
 
 Funcionalidades
 
