@@ -4,6 +4,14 @@ Descripción General
 
 El sistema de inventario desarrollado para la librería El Gran Poeta es una aplicación web diseñada para gestionar productos. Proporciona herramientas para el control de inventarios, la generación de informes, y la administración de usuarios con roles específicos. Está implementado con Django como framework backend, MySQL como base de datos, y Bootstrap para la interfaz de usuario.
 
+Colaboradores:
+Eliseo Chavez
+https://github.com/EChavezDevs
+Damian Gutierrez Lemus
+https://github.com/DamianGutierrezLemus
+Alfredo Hernandez
+https://github.com/Exoteklas
+
 Funcionalidades
 
 Gestión de Inventario
