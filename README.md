@@ -8,6 +8,9 @@ Colaboradores:
 Eliseo Chavez
 https://github.com/EChavezDevs
 
+Damián Gutiérrez
+https://github.com/DamianGutierrezLemus
+
 
 Funcionalidades
 
